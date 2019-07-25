@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a toto
+=======
+This is a toto
+>>>>>>> feature_1
